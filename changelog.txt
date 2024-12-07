@@ -1,0 +1,9 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.2
+Date: 2024.11.10
+  Changes:
+    - Added specific technology research for atomic artillery shells.
+    - Tweaked stats of atomic artillery shells.
+  Bugfixes:
+    - Fixed crash due to missing audio file.
+---------------------------------------------------------------------------------------------------
